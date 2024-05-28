@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [Website Link ](https://vercel.com/gouravpandey009s-projects/bhagavad-gita-gpt/)
 # Gita GPT - Talk to Krishna with Bhagavad Gita AI
 
@@ -67,3 +68,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## License
 
 Bhagavad Gita AI is open source and licensed under the MIT License.
+=======
+# BhagavadGita-ChatBot
+My Sixth Project
+>>>>>>> 076c74bd2ebc6eb6fbb1eeecb4124ba1372ad5de
