@@ -1,5 +1,5 @@
 
-Project Link:- https://vercel.com/gouravpandey009s-projects/bhagavad-gita-gpt/
+Project Link:- https://bhagavad-gita-gpt.vercel.app/
 # Gita ChatBot - Talk to Krishna with Bhagavad Gita AI
 
 <img width="1079" alt="FRONTEND" src="https://github.com/Anuragroy24/BhagavadGita-ChatBot/assets/122443089/8132fbea-8857-40d6-99ee-7dc9f7ddea24">
