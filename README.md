@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-[Website Link ](https://vercel.com/gouravpandey009s-projects/bhagavad-gita-gpt/)
+
+Project Link:- https://vercel.com/gouravpandey009s-projects/bhagavad-gita-gpt/
 # Gita GPT - Talk to Krishna with Bhagavad Gita AI
 
 ![bhagavad-gita-ai](https://user-images.githubusercontent.com/32533774/218021917-c578b980-4e5e-4f2e-82f1-b048bd7f8bdc.jpeg)
