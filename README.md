@@ -2,7 +2,8 @@
 Project Link:- https://vercel.com/gouravpandey009s-projects/bhagavad-gita-gpt/
 # Gita ChatBot - Talk to Krishna with Bhagavad Gita AI
 
-![bhagavad-gita-ai](https://user-images.githubusercontent.com/32533774/218021917-c578b980-4e5e-4f2e-82f1-b048bd7f8bdc.jpeg)
+<img width="1079" alt="FRONTEND" src="https://github.com/Anuragroy24/BhagavadGita-ChatBot/assets/122443089/8132fbea-8857-40d6-99ee-7dc9f7ddea24">
+
 
 [Gita GPT](https://bhagavadgita.ai) is a state-of-the-art AI-powered chatbot that uses the power of artificial intelligence to bring the teachings of Lord Krishna to your everyday life. With GitaGPT, you can have a conversation with Lord Krishna in a conversational manner, receiving personalised answers to your questions and gaining divine guidance in your life.
 
@@ -47,10 +48,6 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## License
+Here are some pictures of the web App:
 
-Bhagavad Gita AI is open source and licensed under the MIT License.
-=======
-# BhagavadGita-ChatBot
-My Sixth Project
->>>>>>> 076c74bd2ebc6eb6fbb1eeecb4124ba1372ad5de
+First Image:
