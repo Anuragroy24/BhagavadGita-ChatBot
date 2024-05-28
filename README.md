@@ -51,3 +51,9 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 Here are some pictures of the web App:
 
 First Image:
+
+<img width="1079" alt="FRONTEND 1" src="https://github.com/Anuragroy24/BhagavadGita-ChatBot/assets/122443089/9c7bce2c-ae3a-4282-a96c-8f68f25d1f61">
+
+Second Image:
+Third Image:
+Fourth Image:
